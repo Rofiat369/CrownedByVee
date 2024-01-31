@@ -3,10 +3,10 @@
     margin: 0;
 }
 
-.main{
-    background-image: url("./IMG-20240129-WA0027.jpg");
-    background-repeat: no-repeat;
+.main img{
+    /* background-image: url("./IMG-20240129-WA0027.jpg"); */
+    /* background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
     height: 55em;
 }
