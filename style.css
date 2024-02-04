@@ -3,9 +3,18 @@
     margin: 0;
 }
 
+nav{
+    display: flex;
+}
+
 .logo{
     width: 5em;
     height: 5em;
+}
+
+ul{
+    list-style: none;
+    display: flex;
 }
 
 .main .hairpic{
