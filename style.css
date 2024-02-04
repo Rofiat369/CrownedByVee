@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+.logo{
+    width: 5em;
+    height: 5em;
+}
+
 .main .hairpic{
     height: 40em;
     width: 40em;
