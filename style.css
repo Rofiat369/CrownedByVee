@@ -20,6 +20,8 @@ ul{
 
 li{
     margin: 0 2em;
+    font-size: larger;
+    font-weight: bolder;
 }
 
 .main .hairpic{
