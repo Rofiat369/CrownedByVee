@@ -36,7 +36,7 @@ li{
     background-color: #f7f7f7;
     display: flex;
     color: rgb(23, 23, 22);
-    padding: 7em 3em;
+    /* padding: 7em 3em; */
 }
 
 .main img{
@@ -44,5 +44,10 @@ li{
     height: 25em;
     border-radius: 0.5em;
     margin: 0 10em;
+}
+
+.main p{
+    margin: 8em 0;
+    text-align: center;
 }
 
