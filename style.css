@@ -27,5 +27,16 @@ li{
     margin-top: 2em;
 }
 
+.main{
+    background-color: rgba(22, 21, 21, 0.242);
+    display: flex;
+    color: rgb(23, 23, 22);
+    padding: 7em 3em;
+}
 
+.main img{
+    width: 15em;
+    height: 15em;
+    border-radius: 1em;
+}
 
