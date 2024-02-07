@@ -33,21 +33,23 @@ li{
 }
 
 .main{
-    background-color: #f7f7f7;
+    background-color: #f4f4f4;
+    background-image: url("https://www.transparenttextures.com/patterns/mocha-grunge.png");
     display: flex;
-    color: rgb(23, 23, 22);
-    /* padding: 7em 3em; */
+    color: #000000;
 }
 
 .main img{
-    width: 25em;
-    height: 25em;
+    width: 30em;
+    height: 30em;
     border-radius: 0.5em;
-    margin: 0 10em;
+    margin: 2em 10em;
+    background-blend-mode:color;
 }
 
 .main p{
-    margin: 8em 0;
+    margin: 5em 1em 5em 3em;
     text-align: center;
+    font-size: 2em;
 }
 
