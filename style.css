@@ -78,3 +78,38 @@ li{
     font-size: 1.5em;
     width: 40%;
 }
+
+.display{
+    background-color: #f4f4f4;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    display: flex;
+    padding: 5em 0;
+}
+
+.display section{
+    width: 30em;
+    height: 30em;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.display .braids{
+    background-image: url("./images/hair8.jpg");
+}
+
+.display .cornrow{
+    background-image: url("./images/hairTen.jpg");
+}
+
+.wig{
+    background-image: url("./images/wig.jpg");
+}
+
+.bigBraids{
+    background-image: url("./images/bigBraid.jpg");
+}
+
+.faux{
+    background-image: url("./images/fauxLocs.jpg");
+}
