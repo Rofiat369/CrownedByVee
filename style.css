@@ -36,21 +36,29 @@ li{
     background-color: #f4f4f4;
     background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
     display: flex;
+    align-items: center;
+    justify-content: center;
     color: #000000;
+    padding: 4em 0;
 }
 
 .main img{
-    width: 30em;
-    height: 30em;
+    width: 25em;
+    height: 25em;
     border-radius: 0.5em;
-    margin: 2em 10em;
+    /* margin: 2em 10em; */
     background-blend-mode:color;
 }
 
-.main p{
-    margin: 5em 1em 5em 3em;
+.main section{
+    margin: 0 3em;
     text-align: center;
     font-size: 2em;
+}
+
+.description img{
+    width: 2em;
+    height: 2em;
 }
 
 .gold{
