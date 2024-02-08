@@ -63,15 +63,18 @@ li{
 
 .gold{
     display: flex;
-    background-color: #f4ce14;
-    background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");
+    background-color: #e6b31e;
+    background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
 }
 
 .gold .pre{
     font-size: 3em;
     font-style: italic;
+    width: 60%;
+    padding: 0.2em;
 } 
 
 .gold .service{
     font-size: 1.5em;
+    width: 40%;
 }
