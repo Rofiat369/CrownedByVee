@@ -3,6 +3,8 @@
 /* #F7C873 */
 /* #434343 */
 
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@400;500;700&family=Arimo&family=Ballet&display=swap');
+
 *{
     padding: 0;
     margin: 0;
@@ -46,7 +48,6 @@ li{
     width: 25em;
     height: 25em;
     border-radius: 0.5em;
-    /* margin: 2em 10em; */
     background-blend-mode:color;
 }
 
@@ -83,7 +84,7 @@ li{
     background-color: #f4f4f4;
     background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
     display: flex;
-    padding: 5em 0;
+    padding-bottom: 2em;
 }
 
 .display section{
@@ -92,6 +93,23 @@ li{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.display section section{
+    width: 80%;
+    max-height: 3em;
+    border-radius: 0.5em;
+    background-color: #00000090;
+    margin: 20em 2em;
+    color: #f4f4f4;
+    
+}
+
+.display section section p{
+    padding: 1em 0em 1em 4.8em;
+    /* font-weight: bold; */
+    font-size: large;
+    font-family: 'Arimo', sans-serif;
 }
 
 .display .braids{
