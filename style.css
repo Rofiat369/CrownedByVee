@@ -131,3 +131,16 @@ li{
 .faux{
     background-image: url("./images/fauxLocs.jpg");
 }
+
+.products{
+    background-color: #f4f4f4;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    font-size: larger;
+}
+
+.products h3{
+    text-decoration: underline;
+    text-decoration-color: #e6b31e;
+    text-align: center;
+    font-style: italic;
+}
