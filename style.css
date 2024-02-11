@@ -156,3 +156,7 @@ li{
     align-items: center;
     padding: 0 5em;
 }
+
+.first>section, .second>section, .third > section{
+    margin: 5em;
+}
