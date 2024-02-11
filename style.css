@@ -146,6 +146,13 @@ li{
 }
 
 .products img{
-    width: 20em;
-    height: 20em;
+    width: 15em;
+    height: 15em;
+}
+
+.products .first, .second, .third{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 5em;
 }
