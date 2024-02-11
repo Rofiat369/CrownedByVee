@@ -144,3 +144,8 @@ li{
     text-align: center;
     font-style: italic;
 }
+
+.products img{
+    width: 20em;
+    height: 20em;
+}
