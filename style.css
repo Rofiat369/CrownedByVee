@@ -158,5 +158,10 @@ li{
 }
 
 .first>section, .second>section, .third > section{
-    margin: 5em;
+    margin: 2em;
+    border-radius: 1em;
+}
+
+.products img{
+    border-radius: 0.5em;
 }
