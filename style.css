@@ -167,6 +167,14 @@ li{
     text-align: center;
 }
 
+.rating{
+    text-align: center;
+}
+
+.checked{
+    color:#e6b31e;
+}
+
 .products img{
     border-radius: 0.5em;
 }
