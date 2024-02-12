@@ -162,6 +162,11 @@ li{
     border-radius: 1em;
 }
 
+.first p, .second p{
+    padding: 0.7em 0;
+    text-align: center;
+}
+
 .products img{
     border-radius: 0.5em;
 }
