@@ -194,3 +194,8 @@ button{
     font-size: medium;
     font-weight: bold;
 }
+
+.contactUs img{
+    width: 10em;
+    height: 10em;
+}
