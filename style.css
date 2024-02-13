@@ -195,6 +195,18 @@ button{
     font-weight: bold;
 }
 
+.contactUs h3{
+    text-align: center;
+    margin: 1.5em 0 0.5em 0;
+    font-size: 2em;
+}
+
+.contactUs .slogan{
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0 0 1.5em 0;
+}
+
 .contactUs .contactIcon{
     display: flex;
     justify-content: center;
