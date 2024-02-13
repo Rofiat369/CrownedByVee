@@ -195,7 +195,17 @@ button{
     font-weight: bold;
 }
 
+.contactUs .contactIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactIcon section{
+    margin: 0 6em;
+}
+
 .contactUs img{
-    width: 10em;
-    height: 10em;
+    width: 4em;
+    height: 4em;
 }
