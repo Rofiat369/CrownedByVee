@@ -209,3 +209,28 @@ button{
     width: 4em;
     height: 4em;
 }
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form section{
+    display: flex;
+    margin: 0 6em;
+}
+
+form input{
+    padding: 1em 2em;
+    border-radius: 1em;
+    margin: 0.5em 5em;
+    width: 25em;
+}
+
+form textarea{
+    height: 15em;
+    width: 35em;
+    border-radius: 1em;
+}
