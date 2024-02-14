@@ -186,7 +186,7 @@ li{
     padding-bottom: 1em;
 }
 
-button{
+.b{
     padding: 0.5em 1.5em;
     background-color: #e6b41e56;
     border: 0.1em solid #e6b31e;
@@ -198,6 +198,7 @@ button{
 .contactUs{
     background-color: #f4f4f4;
     background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    padding-bottom: 2em;
 }
 
 .contactUs h3{
@@ -217,15 +218,21 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 1.6em;
 }
 
 .contactIcon section{
     margin: 0 6em;
 }
 
-.contactUs img{
+.contactIcon img{
     width: 4em;
     height: 4em;
+    margin: 0 0 0.8em 1em;
+}
+
+.contactIcon .email img{
+    margin-left: 4.5em;
 }
 
 form{
@@ -235,15 +242,14 @@ form{
     align-items: center;
 }
 
-form section{
-    display: flex;
-    margin: 0 6em;
+form .first #firstA, form .seconds #secondA{
+    margin-right: 23em;
+    margin-bottom: 2em;
 }
 
 form input{
     padding: 1em 2em;
     border-radius: 1em;
-    margin: 0.5em 5em;
     width: 25em;
 }
 
@@ -251,4 +257,9 @@ form textarea{
     height: 15em;
     width: 35em;
     border-radius: 1em;
+}
+
+.ab{
+    margin: 1.2em 0;
+    padding: 0.5em 2em;
 }
